@@ -1,0 +1,10 @@
+21:32:32 **** Incremental Build of configuration Debug for project PWM_Controlled_Brushed_DC_Timer ****
+make -j4 all 
+arm-none-eabi-size  PWM_Controlled_Brushed_DC_Timer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11912	     12	   1788	  13712	   3590	PWM_Controlled_Brushed_DC_Timer.elf
+Finished building: default.size.stdout
+ 
+
+21:32:33 Build Finished. 0 errors, 0 warnings. (took 753ms)
+

@@ -1,0 +1,10 @@
+22:07:27 **** Incremental Build of configuration Debug for project MCU_INTERFACE_FOR_RPM ****
+make -j4 all 
+arm-none-eabi-size  MCU_INTERFACE_FOR_RPM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18352	     92	   2124	  20568	   5058	MCU_INTERFACE_FOR_RPM.elf
+Finished building: default.size.stdout
+ 
+
+22:07:28 Build Finished. 0 errors, 0 warnings. (took 583ms)
+
